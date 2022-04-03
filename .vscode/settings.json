@@ -1,0 +1,4 @@
+{
+    "search.useIgnoreFiles": false,
+    "python.analysis.extraPaths": ["./path-to-code/"],
+}
